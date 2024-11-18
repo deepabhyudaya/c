@@ -1,3 +1,5 @@
+// leanrt using ChatGPT
+
 #include <stdio.h>  // For input/output functions like printf()
 #include <string.h> // For string manipulation functions like memset(), strlen()
 #include <stdlib.h> // For standard library functions like exit()
